@@ -7,27 +7,34 @@ Atom's iconic One Dark theme, and one of the most installed [themes](https://mar
 [![codestream](https://alt-images.codestream.com/codestream_logo_onedarkpro.png)](https://sponsorlink.codestream.com/?utm_source=vscmarket&utm_campaign=onedarkpro&utm_medium=banner)
 
 Eliminate context switching and costly distractions. Create and merge PRs and perform code reviews from inside your IDE while using jump-to-definition, your keybindings, and other IDE favorites.
- [Learn more](https://sponsorlink.codestream.com/?utm_source=vscmarket&utm_campaign=onedarkpro&utm_medium=banner).
+[Learn more](https://sponsorlink.codestream.com/?utm_source=vscmarket&utm_campaign=onedarkpro&utm_medium=banner).
 
 ## SCREENSHOT
+
 ![ScreenShot](https://cdn.jsdelivr.net/gh/binaryify/onedark-pro/screenshots/normal.png)
 
 ### Italic
+
 ![ScreenShot](https://cdn.jsdelivr.net/gh/binaryify/onedark-pro/screenshots/italic.png)
 
 ### Default theme
+
 ![ScreenShot](https://cdn.jsdelivr.net/gh/binaryify/onedark-pro/screenshots/editor.png)
 
-### Flat theme 
+### Flat theme
+
 ![ScreenShot](https://cdn.jsdelivr.net/gh/binaryify/onedark-pro/screenshots/editorflat.png)
 
 ### Terminal
+
 ![ScreenShot](https://cdn.jsdelivr.net/gh/binaryify/onedark-pro/screenshots/terminal.png)
 
 ### Setting
+
 ![ScreenShot](https://cdn.jsdelivr.net/gh/binaryify/onedark-pro/screenshots/setting.png)
 
 ### Built in themes
+
 ![built-in themes](https://cdn.jsdelivr.net/gh/binaryify/onedark-pro/screenshots/built-in-themes.png)
 
 ## Markdown preview style
@@ -43,9 +50,9 @@ example, you can add this snippet in your "settings.json" file:
 
 ```json
 "workbench.colorCustomizations": {
-  "tab.activeBackground": "#282c34",
-  "activityBar.background": "#282c34",
-  "sideBar.background": "#282c34"
+  "tab.activeBackground": "#2d2d2d",
+  "activityBar.background": "#2d2d2d",
+  "sideBar.background": "#2d2d2d"
 }
 ```
 
@@ -65,8 +72,11 @@ or use the setting `editor.tokenColorCustomizations`
   }
 }
 ```
-#### Italic 
+
+#### Italic
+
 You could set this in your setting.json to make code be italic
+
 ```json
 "editor.tokenColorCustomizations": {
     "textMateRules": [
@@ -113,20 +123,18 @@ You could set this in your setting.json to make code be italic
   }
 ```
 
-
 [more info](https://binaryify.github.io/OneDark-Pro)
 
 Please check the official documentation,
 [Theme Color Reference](https://code.visualstudio.com/docs/getstarted/theme-color-reference) and
 [Theme Color](https://code.visualstudio.com/docs/getstarted/themes), for more helpful information.
 
-
-
 [More info](https://code.visualstudio.com/updates/v1_15#_user-definable-syntax-highlighting-colors)
 
 ## CHANGELOG
 
 [CHANGELOG.MD](https://github.com/Binaryify/OneDark-Pro/blob/master/CHANGELOG.md)
+
 ## DOCS & CONTRIBUTE
 
 This document

@@ -3,8 +3,8 @@
 Atom One Dark by Daniel Gamage
 Original One Dark Syntax theme from https://github.com/atom/one-dark-syntax
 
-base:    #282c34
-mono-1:  #abb2bf
+base:    #2d2d2d
+mono-1:  #bababa
 mono-2:  #818896
 mono-3:  #5c6370
 hue-1:   #56b6c2
@@ -17,13 +17,13 @@ hue-6:   #d19a66
 hue-6-2: #e6c07b
 
 */
-.vscode-dark[data-vscode-theme-name="One Dark Pro"] {
+.vscode-dark[data-vscode-theme-name='One Dark Pro'] {
   .hljs {
     display: block;
     overflow-x: auto;
     padding: 0.5em;
-    color: #abb2bf;
-    background: #282c34;
+    color: #bababa;
+    background: #2d2d2d;
   }
 
   .hljs-comment,

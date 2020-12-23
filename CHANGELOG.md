@@ -1,152 +1,196 @@
 # CHANGELOG
+
 ## 3.9.11 | 2020.11.25
+
 - Update editorLineNumber.activeForeground color [#487](https://github.com/Binaryify/OneDark-Pro/issues/487)
 
 ## 3.9.10 | 2020.11.25
+
 - Add editorLineNumber.activeForeground highlight [#487](https://github.com/Binaryify/OneDark-Pro/issues/487)
 
 - Update license
 
 ## 3.9.7 | 2020.11.21
+
 - Update screenshots and docs
 
 ## 3.9.6 | 2020.11.16
-- Fixed golang syntax highlighting error  [#482](https://github.com/Binaryify/OneDark-Pro/issues/482)
+
+- Fixed golang syntax highlighting error [#482](https://github.com/Binaryify/OneDark-Pro/issues/482)
 
 ## 3.9.5 | 2020.11.15
+
 - Update docs and screenshots
 
 ## 3.9.3 | 2020.10.07
+
 - Improve Elixir highlight [#464](https://github.com/Binaryify/OneDark-Pro/issues/464)
 
 ## 3.9.2 | 2020.10.05
+
 - Update screenshots
 
 ## 3.9.1 | 2020.10.03
+
 - Fixed iffy wording on command pallet commands [#458](https://github.com/Binaryify/OneDark-Pro/pull/458)
 
 ## 3.9.0 | 2020.09.25
+
 - Add oneDarkProFlat theme [#453](https://github.com/Binaryify/OneDark-Pro/pull/453)
 
 ## 3.8.7 | 2020.08.29
+
 - Fixed JavaScript operator color error [#407](https://github.com/Binaryify/OneDark-Pro/issues/407)
 - Fixed [#412](https://github.com/Binaryify/OneDark-Pro/issues/412)
 
 ## 3.8.5 | 2020.07.20
+
 - Add black color theme support [#410](https://github.com/Binaryify/OneDark-Pro/pull/410)
 - Fixed config don't work issue [#366](https://github.com/Binaryify/OneDark-Pro/issues/366)
 
 ## 3.8.4 | 2020.07.19
+
 - Improve markdown image css
 
 ## 3.8.3 | 2020.07.06
+
 - Fixed rust highlight color error [#404](https://github.com/Binaryify/OneDark-Pro/issues/404)
 
 ## 3.8.2 | 2020.06.21
+
 - Improve terminal color
 
 ## 3.8.1 | 2020.06.20
+
 - Improve panel section header background color [#400](https://github.com/Binaryify/OneDark-Pro/issues/400)
 
 ## 3.8.0 | 2020.06.13
+
 - Support toggle markdown style in setting
 
 ## 3.7.3 | 2020.06.11
-- Support markdown preview color highlight 
+
+- Support markdown preview color highlight
 
 ## 3.7.1 | 2020.05.22
+
 - Improve terminal selection background color highlight
 
 ## 3.7.0 | 2020.05.20
+
 - Improve terminal color highlight [#382](https://github.com/Binaryify/OneDark-Pro/issues/382)
 
 - Improve Rust highlight [#393](https://github.com/Binaryify/OneDark-Pro/issues/393)
 
 ## 3.6.2 | 2020.05.18
+
 - Update README.MD
 
 ## 3.6.1 | 2020.05.14
+
 - Fixed C/C++ variables highlight error [#390](https://github.com/Binaryify/OneDark-Pro/issues/390)
+
 ## 3.6.0 | 2020.05.13
+
 - Revert markdown preview color highlight support change
 
 ## 3.5.5 | 2020.05.12
+
 - Limit markdown preview style in dark mode
 
 ## 3.5.0 | 2020.05.09
+
 - Add markdown preview color highlight support
 
 ## 3.4.0 | 2020.05.06
+
 ### Breaking change
+
 - Enable semantic highlighting by default [#386](https://github.com/Binaryify/OneDark-Pro/issues/386)  
-You could set `"editor.semanticHighlighting.enabled": false` in your `setting.json` to close this setting
+  You could set `"editor.semanticHighlighting.enabled": false` in your `setting.json` to close this setting
 
 ## 3.3.1 | 2020.04.22
+
 - Fixed terminal color error
 
 ## 3.3.0 | 2020.04.21
+
 - Update terminal color
 
 ## 3.2.5 | 2020.03.31
+
 - Fixed broken images url
 
 ## 3.2.4 | 2020.03.18
+
 - Update debug status bar background [#374](https://github.com/Binaryify/OneDark-Pro/issues/374)
 
 ## 3.2.3 | 2020.02.20
+
 - Fixed embedded YAML list dash highlight error[#370](https://github.com/Binaryify/OneDark-Pro/issues/370)
 
 ## 3.2.2 | 2020.02.04
+
 - Highlight diff to-file [#376](https://github.com/Binaryify/OneDark-Pro/pull/376)
 
 ## 3.2.1 | 2019.12.10
+
 - Fixed [#362](https://github.com/Binaryify/OneDark-Pro/issues/362)
 
 ## 3.2.0 | 2019.11.29
+
 - Won't prompt to reload after extension update when using default config
 
 - Remove update notification
 
 ## 3.1.2 | 2019.11.25
+
 - Fixed template expression highlight error [#358](https://github.com/Binaryify/OneDark-Pro/issues/358)
 
 ## 3.1.1 | 2019.11.24
-- Fixed i18n error 
+
+- Fixed i18n error
 
 ## 3.1.0 | 2019.11.24
+
 - Fixed rust highlight error [#356](https://github.com/Binaryify/OneDark-Pro/issues/356)
 
 - Fixed jsx highlight error [#358](https://github.com/Binaryify/OneDark-Pro/issues/358)
 
 - Show open changelog button on notification in the bottom right corne
 
-- Support commands to set/cancel `bold`, `italic`, `vivid` 
+- Support commands to set/cancel `bold`, `italic`, `vivid`
 
 ## 3.0.3 | 2019.11.18
-- Fixed the file name error 
+
+- Fixed the file name error
 
 ## 3.0.1 | 2019.11.18
+
 - Fixed work tree selected background color error
 
 - Fixed CHANGELOG.MD date error
 
 ## 3.0.0 | 2019.11.17
+
 - Refactoring with TypeScript
 
-- Support dynamic theme  
+- Support dynamic theme
 
-- Support switch to other editor theme  (Solarized, Nord, Panda, Ayu, VS Code(dark))
+- Support switch to other editor theme (Solarized, Nord, Panda, Ayu, VS Code(dark))
 
-- Support switch `bold`, `italic`, `vivid` 
+- Support switch `bold`, `italic`, `vivid`
 
 ### More
+
 - Read [release note](https://github.com/Binaryify/OneDark-Pro/blob/master/releaseNote.md)
 
-
 ## 2.28.3 | 2019.10.28
+
 - Improve comparison operators incorrectly highlight [#346](https://github.com/Binaryify/OneDark-Pro/issues/346)
 
 ## 2.28.2 | 2019.10.07
+
 - Update logo [#343](https://github.com/Binaryify/OneDark-Pro/pull/343)
 
 ## 2.28.1 | 2019.10.06
@@ -288,7 +332,7 @@ You could set `"editor.semanticHighlighting.enabled": false` in your `setting.js
 
 ## 2.17.5
 
-- Change focus from `#21252b` to `#F8FAFD` to improve accessibility in GUIs
+- Change focus from `#252525` to `#F8FAFD` to improve accessibility in GUIs
 
 ## 2.17.4 | 2018.10.14
 
@@ -310,7 +354,7 @@ Improve Ruby and FlowJS support
 
 ## 2.16.6 | 2018.09.12
 
-- Edit editor tab highlighting to be the `#282c34` color to be consistent across the theme
+- Edit editor tab highlighting to be the `#2d2d2d` color to be consistent across the theme
 - Improve Python italics support
 
 ## 2.16.3 | 2018.9.09

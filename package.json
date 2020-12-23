@@ -1,8 +1,8 @@
 {
-  "name": "one-dark-contrast",
-  "displayName": "One Dark Pro",
+  "name": "one-darkish",
+  "displayName": "One Darkish",
   "description": "Atom's iconic One Dark theme for Visual Studio Code",
-  "version": "3.9.11",
+  "version": "3.10.1",
   "publisher": "skiffle",
   "bugs": {
     "url": "https://github.com/Binaryify/OneDark-Pro/issues"
